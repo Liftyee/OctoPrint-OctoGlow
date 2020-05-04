@@ -20,16 +20,16 @@ plugin_version = "0.1"
 
 # The plugin's description. Can be overwritten within OctoPrint's internal data via __plugin_description__ in the plugin
 # module
-plugin_description = "Display OctoPrint status on a PiGlow board"
+plugin_description = "Display OctoPrint status on a connected RGB LED"
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
-plugin_author = "Dan Malec"
+plugin_author = "Victor Liu"
 
 # The plugin's author's mail address.
-plugin_author_email = "dan.malec@gmail.com"
+plugin_author_email = "victor.yuchen.liu@gmail.com"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
-plugin_url = "https://github.com/dmalec/OctoPrint-OctoGlow"
+plugin_url = "https://github.com/Liftyee/OctoPrint-OctoGlow"
 
 # The plugin's license. Can be overwritten within OctoPrint's internal data via __plugin_license__ in the plugin module
 plugin_license = "CC BY-NC-SA 4.0"
