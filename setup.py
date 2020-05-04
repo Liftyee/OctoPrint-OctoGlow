@@ -6,14 +6,14 @@ import setuptools
 ### Do not forget to adjust the following variables to your own plugin.
 
 # The plugin's identifier, has to be unique
-plugin_identifier = "octoglow"
+plugin_identifier = "octoRGB"
 
 # The plugin's python package, should be "octoprint_<plugin identifier>", has to be unique
 plugin_package = "octoprint_%s" % plugin_identifier
 
 # The plugin's human readable name. Can be overwritten within OctoPrint's internal data via __plugin_name__ in the
 # plugin module
-plugin_name = "OctoPrint-OctoGlow"
+plugin_name = "OctoPrint-OctoRGB"
 
 # The plugin's version. Can be overwritten within OctoPrint's internal data via __plugin_version__ in the plugin module
 plugin_version = "0.1"
@@ -23,10 +23,10 @@ plugin_version = "0.1"
 plugin_description = "Display OctoPrint status on a connected RGB LED"
 
 # The plugin's author. Can be overwritten within OctoPrint's internal data via __plugin_author__ in the plugin module
-plugin_author = "Victor Liu"
+plugin_author = "Dan Malec"
 
 # The plugin's author's mail address.
-plugin_author_email = "victor.yuchen.liu@gmail.com"
+plugin_author_email = "dan.malec@gmail.com"
 
 # The plugin's homepage URL. Can be overwritten within OctoPrint's internal data via __plugin_url__ in the plugin module
 plugin_url = "https://github.com/Liftyee/OctoPrint-OctoGlow"
